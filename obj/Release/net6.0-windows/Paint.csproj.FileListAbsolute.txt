@@ -1,0 +1,17 @@
+E:\C#\Paint\bin\Release\net6.0-windows\Paint.exe
+E:\C#\Paint\bin\Release\net6.0-windows\Paint.deps.json
+E:\C#\Paint\bin\Release\net6.0-windows\Paint.runtimeconfig.json
+E:\C#\Paint\bin\Release\net6.0-windows\Paint.dll
+E:\C#\Paint\bin\Release\net6.0-windows\Paint.pdb
+E:\C#\Paint\obj\Release\net6.0-windows\Paint.Form1.resources
+E:\C#\Paint\obj\Release\net6.0-windows\Paint.Properties.Resources.resources
+E:\C#\Paint\obj\Release\net6.0-windows\Paint.csproj.GenerateResource.cache
+E:\C#\Paint\obj\Release\net6.0-windows\Paint.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Paint\obj\Release\net6.0-windows\Paint.AssemblyInfoInputs.cache
+E:\C#\Paint\obj\Release\net6.0-windows\Paint.AssemblyInfo.cs
+E:\C#\Paint\obj\Release\net6.0-windows\Paint.csproj.CoreCompileInputs.cache
+E:\C#\Paint\obj\Release\net6.0-windows\Paint.dll
+E:\C#\Paint\obj\Release\net6.0-windows\refint\Paint.dll
+E:\C#\Paint\obj\Release\net6.0-windows\Paint.pdb
+E:\C#\Paint\obj\Release\net6.0-windows\Paint.genruntimeconfig.cache
+E:\C#\Paint\obj\Release\net6.0-windows\ref\Paint.dll
